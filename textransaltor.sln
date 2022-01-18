@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textransaltor", "textransaltor.csproj", "{67940969-EA34-4BA6-A7C3-D795F8BA5AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67940969-EA34-4BA6-A7C3-D795F8BA5AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67940969-EA34-4BA6-A7C3-D795F8BA5AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67940969-EA34-4BA6-A7C3-D795F8BA5AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67940969-EA34-4BA6-A7C3-D795F8BA5AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF75CB8-2C74-4BBE-B6C0-9FD4752FD64B}
+	EndGlobalSection
+EndGlobal
